@@ -1,6 +1,5 @@
-# record
+Clojure play project using mysql and cli-record
 
-FIXME: description
 
 ## Installation
 
@@ -37,3 +36,4 @@ Distributed under the Eclipse Public License, the same as Clojure.
 
 (user/create {:id 1 :login "jmh" :first_name "jerry" :last_name "hoerig" :password "nada" :email_address "jerry@nowhere.com"})
 (user/create {:id 2 :login "sam" :first_name "sammy" :last_name "littlebottom" :password "nada" :email_address "sammy@nowhere.com"})
+
